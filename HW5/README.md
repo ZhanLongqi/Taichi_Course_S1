@@ -8,7 +8,7 @@
 
 ### 效果展示
 
-![demo](/demo.png)
+![demo](./data/demo.png)
 
 调参是一项苦逼活:- )
 
